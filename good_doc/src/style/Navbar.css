@@ -1,0 +1,115 @@
+*,*::after,
+*::before{
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 50.5%;
+}
+body p{
+    font-size:3rem;
+
+}
+li{
+    list-style: none;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: rgb(12, 250, 40);
+}
+
+.nav{
+    /* display: flex; */
+    align-items: center;
+    justify-content: space-around;
+    height: 8vh;
+    background: rgb(0,28,73);
+    color: rgb(12, 250, 40);
+    text-decoration: none;
+    font-size: 20px;
+    position: relative; /* ou absolute */
+     z-index: 1000; /* Assurez-vous que ce chiffre est supérieur à celui des autres éléments */
+   
+   
+}
+.nav_menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  gap: 4rem;
+ 
+}
+.nav_brand{
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.nav_toggler div{
+    width: 3rem;
+    height: 0.3rem;
+    margin: 0.5rem;
+    background: rgb(7, 237, 42);
+    transition: 0.3s ease-in;
+}
+.nav_toggler{
+    cursor:pointer;
+    display: none;
+}
+@media screen and (max-width:760px) {
+    .nav_toggler{
+        display: block;
+    }
+    .nav_menu{
+        position: fixed;
+        display:flex;
+        top: 0vh;
+        right: 0;
+        width: 32%;
+        height: 100vh;
+        background: rgb(0,28,73);
+        flex-direction:column;
+        transform: translate(100%);
+        transition: 0.5s ease-in;
+       
+    }
+    .nav_active {
+        display: block; /* Afficher le menu lorsque actif */
+        
+    }
+   .nav_menu .nav_item{
+    gap: 5rem;
+   }
+
+}
+
+/* nav active class */
+.nav_active{
+    transform: translate(0);
+}
+/* toggler icon animation */
+.toggler .line1{
+ transform: rotate(-45deg) translate(-4px, -5px);
+}
+.toggler .line2{
+    opacity: 0;
+    /* transform: rotate(-45deg) translate (-4px, 5px); */
+}
+.toggler .line3{
+    transform: rotate(45deg) translate(-4px, 5px);  
+}
+.container{
+    font-size: 3rem;
+   
+}
+@media (max-width:760px){
+    .nav_menu{
+        flex-direction: column;
+        gap: 5rem;
+    }
+    .nav_item{
+        margin: 0;
+        padding: 5rem 0; 
+    }
+}

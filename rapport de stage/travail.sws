@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{FDFAA684-3ADB-4C52-9AA9-2548A4216159}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Définition de cas d&#39;utilisation_1.moo"/>
+		<Model Expanded="Yes" ID="{FDFAA684-3ADB-4C52-9AA9-2548A4216159}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="cas d&#39;utilisation.moo"/>
+		<Model Expanded="Yes" ID="{FDFAA684-3ADB-4C52-9AA9-2548A4216159}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="cas d&#39;utilisation.moo"/>
+		<Model Expanded="Yes" ID="{FDFAA684-3ADB-4C52-9AA9-2548A4216159}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="cas d&#39;utilisation.moo"/>
+		<Model Expanded="Yes" ID="{FDFAA684-3ADB-4C52-9AA9-2548A4216159}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="cas d&#39;utilisation.moo"/>
+		<Model Expanded="Yes" ID="{5BE95BE4-8295-4A3E-8FA3-7EDD0E5A7F7E}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="cas d&#39;utilisation admin_1.moo"/>
+		<Model Expanded="Yes" ID="{5BE95BE4-8295-4A3E-8FA3-7EDD0E5A7F7E}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Projet_3/cas d&#39;utilisation admin_1.moo"/>
+		<Model Expanded="Yes" ID="{A7B6EFBC-13C2-41DA-B2AD-759522D3A4FF}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Projet_3/cas d&#39;utilisation docteur_0.moo"/>
+		<Model Expanded="Yes" ID="{682C14A8-48B9-43EA-9801-D192AB94706F}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Projet_3/cas d&#39;utilisation patient_1.moo"/>
+		<Model Expanded="Yes" ID="{FDFAA684-3ADB-4C52-9AA9-2548A4216159}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="diaframme/cas d&#39;utilisation global.moo"/>
+		<Model Expanded="Yes" ID="{682C14A8-48B9-43EA-9801-D192AB94706F}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="diaframme/cas d&#39;utilisation patient_1.moo"/>
+		<Model Expanded="Yes" ID="{FDFAA684-3ADB-4C52-9AA9-2548A4216159}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="diaframme/corige cas d&#39;utilisation global.moo"/>
+		<Model Expanded="Yes" ID="{AA243CF1-16A9-4625-863A-DC8173EA55B6}" Loaded="No" Name="ModeleOrienteObjet_2" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="diaframme/ModeleOrienteObjet_2.moo"/>
+		<Model ID="{AA243CF1-16A9-4625-863A-DC8173EA55B6}" Loaded="No" Name="ModeleOrienteObjet_2" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="diaframme/ModeleOrienteObjet_2.moo"/>
+		<Model Expanded="Yes" ID="{26129375-AB1F-427E-9C26-6E221B120F8F}" Name="ModeleOrienteObjet_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="../diagramme/séquences/creer un compte.moo"/>
+		<Model Expanded="Yes" ID="{26129375-AB1F-427E-9C26-6E221B120F8F}" Name="ModeleOrienteObjet_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="../diagramme/communication/creer un compte.moo"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>

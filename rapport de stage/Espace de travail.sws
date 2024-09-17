@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{FDFAA684-3ADB-4C52-9AA9-2548A4216159}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Définition de cas d&#39;utilisation_1.moo"/>
+		<Model Expanded="Yes" ID="{FDFAA684-3ADB-4C52-9AA9-2548A4216159}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="cas d&#39;utilisation.moo"/>
+		<Model Expanded="Yes" ID="{FDFAA684-3ADB-4C52-9AA9-2548A4216159}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="cas d&#39;utilisation.moo"/>
+		<Model Expanded="Yes" ID="{FDFAA684-3ADB-4C52-9AA9-2548A4216159}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="cas d&#39;utilisation.moo"/>
+		<Model Expanded="Yes" ID="{FDFAA684-3ADB-4C52-9AA9-2548A4216159}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="cas d&#39;utilisation.moo"/>
+		<Model Expanded="Yes" ID="{5BE95BE4-8295-4A3E-8FA3-7EDD0E5A7F7E}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="cas d&#39;utilisation admin_1.moo"/>
+		<Model Expanded="Yes" ID="{5BE95BE4-8295-4A3E-8FA3-7EDD0E5A7F7E}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Projet_3/cas d&#39;utilisation admin_1.moo"/>
+		<Model Expanded="Yes" ID="{A7B6EFBC-13C2-41DA-B2AD-759522D3A4FF}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Projet_3/cas d&#39;utilisation docteur_0.moo"/>
+		<Model Expanded="Yes" ID="{682C14A8-48B9-43EA-9801-D192AB94706F}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Projet_3/cas d&#39;utilisation patient_1.moo"/>
+		<Model Expanded="Yes" ID="{FDFAA684-3ADB-4C52-9AA9-2548A4216159}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="diaframme/cas d&#39;utilisation global.moo"/>
+		<Model Expanded="Yes" ID="{682C14A8-48B9-43EA-9801-D192AB94706F}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="diaframme/cas d&#39;utilisation patient_1.moo"/>
+		<Model Expanded="Yes" ID="{FDFAA684-3ADB-4C52-9AA9-2548A4216159}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="diaframme/corige cas d&#39;utilisation global.moo"/>
+		<Model ID="{FDFAA684-3ADB-4C52-9AA9-2548A4216159}" Loaded="No" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="diaframme/corige cas d&#39;utilisation global.moo"/>
+		<Model ID="{82E4D7CB-A29B-4F8C-920E-553A2365F643}" Name="Définition de cas d&#39;utilisation_3" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="diaframme/Définition de cas d&#39;utilisation_3.moo"/>
+		<Model Expanded="Yes" ID="{E77B4F31-8456-4125-B273-3747EE2CB952}" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="diaframme/Définition de cas d&#39;utilisation_1.moo"/>
+		<Model Expanded="Yes" ID="{AA243CF1-16A9-4625-863A-DC8173EA55B6}" Name="ModeleOrienteObjet_2" Selected="Yes" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="diaframme/ModeleOrienteObjet_2.moo"/>
+		<Model ID="{5F7C5A8B-7081-4A41-A622-A103764438B7}" Name="Définition de cas d&#39;utilisation_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="diaframme/spécifique1 de cas d&#39;utilisation_1.moo"/>
+		<Model ID="{6DC49A2A-65FC-4C3E-945D-A58FA83EAF9D}" Name="Définition de cas d&#39;utilisation_2" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="diaframme/Définition de cas d&#39;utilisation_2.moo"/>
+		<Model ID="{B700D89F-006B-45F7-86DE-DAB7F12DAE64}" Name="Définition de cas d&#39;utilisation_4" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="diaframme/Définition de cas d&#39;utilisation_4.moo"/>
+		<Model ID="{FDFAA684-3ADB-4C52-9AA9-2548A4216159}" Name="use case global" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="diaframme/corige cas d&#39;utilisation global.moo"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
